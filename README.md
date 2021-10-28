@@ -1,4 +1,4 @@
-# Views-Communication
+# Views and Communicating Actions
 
 Experimentation with embedded views and communicating actions.
 
