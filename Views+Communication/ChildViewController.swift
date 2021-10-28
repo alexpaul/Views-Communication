@@ -14,6 +14,7 @@ class ChildViewController: UIViewController {
     private var ctaButton: UIButton = {
         let button = UIButton()
         button.backgroundColor = .systemOrange
+        button.setTitle("CTA", for: .normal)
         button.addTarget(self, action: #selector(buttonPressed), for: .touchUpInside)
         return button
     }()
