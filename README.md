@@ -1,4 +1,4 @@
-# Vieww, Communicating Actions and passing Data
+# Views, Communicating Actions and passing Data
 
 ## Demo App
 
